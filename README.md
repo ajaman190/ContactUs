@@ -2,7 +2,7 @@
 
 This is a contact us page of ApnaInsti app which takes user's query and send the data to apnainsti@kgpian.iitkgp.ac.in
 
-<img src="https://github.com/ajaman190/ContactUs/blob/master/Media/Screenshot.png"  width="350">
+<img src="https://github.com/ajaman190/ContactUs/blob/master/Media/Screenshot_20230303-100937.png"  width="350">
 
 ## Installation
 
