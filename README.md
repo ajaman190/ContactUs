@@ -9,6 +9,7 @@ This is a contact us page of ApnaInsti app which takes user's query and send the
 ### Backend
 
 Download the "Backend" folder and open it in vscode.
+Rename .env.example file to .env and add your email credentials.
 
 ```bash
   npm install
